@@ -1,0 +1,1535 @@
+////////////////////////////////////////////////////////////
+Version 5.2.13 (1-11-22)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.5.14
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.12 (12-24-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.5.12
+UPDATED: WPBakery Builder 6.8.0
+
+////////////////////////////////////////////////////////////
+Version 5.2.11 (12-4-21)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Mobile image background
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.10 (11-25-21)
+////////////////////////////////////////////////////////////
+
+IMPROVED: Image BG Loading
+IMPROVED: Mobile menu options
+
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.9 (11-22-21)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Logo Carousel item width
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.8 (11-19-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.5.11
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.7 (11-16-21)
+////////////////////////////////////////////////////////////
+
+IMPROVED: Various code improvements
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.6 (11-5-21)
+////////////////////////////////////////////////////////////
+
+ADDED: Elementor GYM(converted) Demo
+
+IMPROVED: Lazy image loading Logo Carousel Images(Elementor)
+IMPROVED: Elementor Parallax Mobile Background
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.5 (11-3-21)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Menu floating issue
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.4 (10-29-21)
+////////////////////////////////////////////////////////////
+
+ADDED/IMPROVED: Lazy image loading Portfolio Images
+ADDED/IMPROVED: Lazy image loading Blog Images
+ADDED/IMPROVED: Lazy image loading Testimonial Carousel Images
+ADDED/IMPROVED: Lazy image loading Logo Carousel Images
+ADDED/IMPROVED: Lazy image loading Team Member Images
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.3 (10-24-21)
+////////////////////////////////////////////////////////////
+
+ADDED: Elementor Construction(converted) Demo
+ADDED: Elementor Tattoo(converted) Demo
+ADDED: Elementor Taxi(converted) Demo
+ADDED: Elementor Coffee Shop(converted) Demo
+ADDED: Elementor Freelancer Portfolio(converted) Demo
+
+
+UPDATED: WBC907 Core Plugin
+
+////////////////////////////////////////////////////////////
+Version 5.2.2 (10-18-21)
+////////////////////////////////////////////////////////////
+
+ADDED: Elementor Team Widget/Element
+ADDED: Elementor Progress Bar Widget/Element
+ADDED: Elementor Heading Widget/Element
+
+BUGFIX: Elementor Blog Masonry Grid while in editor
+
+
+UPDATED: WBC907 Core Plugin
+
+
+////////////////////////////////////////////////////////////
+Version 5.2.1 (10-14-21)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Safari Column Display Issue
+
+UPDATED: Revolution Slider 6.5.9
+
+
+////////////////////////////////////////////////////////////
+Version 5.2 (10-9-21)
+////////////////////////////////////////////////////////////
+
+ADDED: Elementor Drone Demo with Video Gallery(MouseOver Videos)
+ADDED: Elementor Service Icon/Image Box Widget
+ADDED: Elementor Testimonial Carousel Widget
+ADDED: Option to hide excerpt dots (...) Portfolio grid
+ADDED: Option to hide excerpt dots (...) Blog grid
+
+BUGFIX: Elementor Video Portfolio
+
+
+UPDATED: WBC907 Core Plugin
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.8 (9-19-21)
+////////////////////////////////////////////////////////////
+
+ADDED: Portfolio Options
+ADDED: Elementor Widget Settings
+
+IMPROVED: Elementor Widgets
+IMPROVED: Portfolio loading speed
+IMPROVED: Theme Options Panel
+
+UPDATED: Revolution Slider 6.5.8
+
+////////////////////////////////////////////////////////////
+Version 5.1.7 (8-22-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.5.7
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.6 (8-9-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.5.6
+UPDATED: WPBakery 6.7.0
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.5 (7-5-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.5.4
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.4 (4-28-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.4.8
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.3 (2-28-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery 6.6.0
+UPDATED: Revolution Slider 6.4.2
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.2 (1-21-21)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 6.3.6
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 5.1.1 (12-18-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Options panel icon button set display issue
+BUGFIX: Post format boxes when using Gutenberg editor
+
+UPDATED: WPBakery 6.5.0
+UPDATED: Revolution Slider 6.3.3
+UPDATED: WBC907 Core 3.1.1
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 5.1 (11-11-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Optional show name on hover client logo carousel
+ADDED: Blog column setting for below 400 width screens
+ADDED: Portfolio column setting for below 400 width screens
+
+BUGFIX: Post Navigaiton (prev/next)
+BUGFIX: Safari & IOS Safari column display issue
+
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 5.0.5 (11-6-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Float clearing(menu bar)
+
+
+////////////////////////////////////////////////////////////
+Version 5.0.4 (10-22-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Spacing issue in page title/bread crumb area
+
+
+////////////////////////////////////////////////////////////
+Version 5.0.3 (10-05-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Safari & IOS Safari column display issue
+
+
+////////////////////////////////////////////////////////////
+Version 5.0.2 (10-05-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Footer Widget area shown when set to hidden
+
+UPDATED: WPBakery 6.4.1
+
+
+////////////////////////////////////////////////////////////
+Version 5.0.1 (9-29-20)
+////////////////////////////////////////////////////////////
+
+ADDED: New Demo Barber Shop (Elementor)
+ADDED: Menu List (Elementor Widget)
+ADDED: Elementor button scroll to section
+
+IMPROVED: Elementor button scroll to section
+
+UPDATED: WBC Core 3.1
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 5.0 (9-21-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Elementor Compatibility
+ADDED: New Demo RealHouse (Elementor)
+ADDED: New Demo Scooter (Elementor)
+
+== New Elementor Widgets Added ==
+
+ADDED: Blog Posts (Elementor Widget)
+ADDED: Portfolio (Elementor Widget)
+ADDED: Portfolio Carousel (Elementor Widget)
+ADDED: Logo Carousel (Elementor Widget)
+ADDED: Animated Chart (Elementor Widget)
+ADDED: Featured Content (Elementor Widget)
+ADDED: Contact Form7 (Elementor Widget)
+
+==
+
+IMPROVED: Various theme options added
+
+UPDATED: Revolution Slider 6.2.23
+UPDATED: WPBakery 6.4.0
+UPDATED: WBC Core 3.0
+UPDATED: Footer Widget columns class
+UPDATED: Portfolio page template columns class
+UPDATED: Posts template columns class
+UPDATED: WooCommerce template columns class
+UPDATED: CSS Grid
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.6.5 (7-28-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Widget spacing options(above/below) to Theme Options for sidebars and footer
+
+UPDATED: Style Handle changes for enqueue script/style to avoid conflicts
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.6.4 (7-18-20)
+////////////////////////////////////////////////////////////
+
+IMPROVED: Minified scripts/styles for loading speed
+IMPROVED: Parallax background images
+
+UPDATED: Revolution Slider v6.2.17
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.6.3 (7-14-20)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider v6.2.15
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.6.2 (6-24-20)
+////////////////////////////////////////////////////////////
+
+UPDATED: Style Handle changed for theme-styles.css and theme-fetures.css
+UPDATED: WBC Reusable Template(WPBakery editing frontend)
+UPDATED: Revolution Slider v6.2.14
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.6.1 (6-19-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Custom scroll to section option for Back To Top button
+
+FIX: WooCommerce check out button color issue
+FIX: WooCommerce shipping address label overlap
+
+UPDATED: Revolution Slider v6.2.12
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.6 (5-7-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Theme Options for button color(both default & hover state)
+ADDED: Page Options for button color, as above to override on per page basis
+ADDED: Option added to turn off photo overlay/link Posts single page view
+ADDED: Option added to turn off photo overlay/link Portfolio single page view
+
+IMPROVED: Changed post meta icons to use FontAwesome 5 class names
+IMPROVED: label, and button styles removing !important.
+IMPROVED: single posts view unlink/wrap featured images
+IMPROVED: single portfolio view unlink/wrap featured images
+
+UPDATED: Revolution Slider v6.2.5
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.5.1 (4-30-20)
+////////////////////////////////////////////////////////////
+
+FIX: Back to top custom background color
+FIX: Back to top custom icon hover color
+FIX: Typo
+
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.5 (4-29-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Back To Top button Theme Options > Extras > Back To Top
+ADDED: Changelog to welcome screen
+
+IMPROVEMENTS: Added WBC Reuseables page builder template for use in frontend builder
+IMPROVEMENTS: WPBakery frontend page builder
+IMPROVEMENTS: font-display to google fonts, and icons for page score/loading
+
+FIX: Hover menu color
+
+UPDATED: WBC907 Core plugin
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.4.1 (4-22-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Portfolio Element Font Size
+ADDED: Portfolio Element Font Color
+ADDED: Portfolio Element Icons Color
+ADDED: Portfolio Carousel Element Font Size
+ADDED: Portfolio Carousel Element Font Color
+ADDED: Portfolio Carousel Element Icons Color
+UPDATED: Language files
+
+
+////////////////////////////////////////////////////////////
+Version 4.4 (4-21-20)
+////////////////////////////////////////////////////////////
+
+ADDED: wp_body_open function
+ADDED: Post, Page, Index now go full width if sidebar not enabled
+UPDATED: WPBakery Builder 6.2
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.11 (4-15-20)
+////////////////////////////////////////////////////////////
+
+IMPROVEMENTS: Minor improvements styling, bugs, theme options, etc
+FIX: CDN theme options failed load messages
+FIX: Compatibility with Elementor Page Builder
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.10 (4-4-20)
+////////////////////////////////////////////////////////////
+
+UPDATED: TGMP Activation, plugin conflict with "Complianz" GDRP plugin
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.9 (3-22-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Link Option to WBC Heading Element
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.8 (3-7-20)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider v6.2.2
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.7 (3-3-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: WooCommerce Icons
+BUGFIX: Select Field Icon
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.6 (2-27-20)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider v6.2.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.5 (2-22-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Hide Links Option for Portfolio Carousel Element
+ADDED: Speed Option for Portfolio Carousel Element
+UPDATED: Language Files
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.4 (2-11-20)
+////////////////////////////////////////////////////////////
+
+IMPROVED: Minor Visual Improvements (i.e slider buttons)
+UPDATED: Revolution Slider v6.1.8
+UPDATED: FontAwesome 5.1.12 (881 new icons added)
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.3 (1-25-20)
+////////////////////////////////////////////////////////////
+
+BUGFIX: WPBakery Builder FontAwesome icons in 907 page builder elements
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.2 (1-23-20)
+////////////////////////////////////////////////////////////
+
+ADDED: Pricing Table Color Options
+UPDATED: Language Files
+BUGFIX: iPad ios 13+ parallax background images
+
+
+////////////////////////////////////////////////////////////
+Version 4.3.1 (1-22-20)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider v6.1.7
+Updated: WPBakery Builder 6.1
+Updated: WBC907 Core Plugin v2.2 minor fixes and improvements
+FIX: Mobile menu submenu toggle scrolling when larger than window
+IMPROVED: Plugins update dismissal notice
+
+
+////////////////////////////////////////////////////////////
+Version 4.3 (11-26-19)
+////////////////////////////////////////////////////////////
+
+Added: Portfolio Filter Pagination Ajaxed
+Updated: Revolution Slider v6.1.5
+Updated: WBC907 Core Plugin v2.1 minor fixes and improvements
+FIX: Mobile Menu color override & options
+
+
+////////////////////////////////////////////////////////////
+Version 4.2.1 (11-2-19)
+////////////////////////////////////////////////////////////
+
+FIX: Testimonial Image wasn't changing when trying to replace image.
+
+
+////////////////////////////////////////////////////////////
+Version 4.2 (10-24-19)
+////////////////////////////////////////////////////////////
+
+ADDED: 907 Theme Blocks 130+ blocks to choose from! Building pages will be a BREEZE now!
+ADDED: FancyBox 3 Popup lightbox, swipe, thumbnails, play as slideshow, and more! Replaces the old prettyPhoto lightbox.
+ADDED: FancyBox Color Options added to Theme Options > Extras > Light Box Options
+ADDED: Group Portfolio Items in lightbox Option(optional)(all the portfolio images in view show up in lightbox)
+ADDED: New Demo "Coffee Shop" 
+ADDED: Max-Width option to color box element
+ADDED: Color option for WBC post widget in footer
+IMPROVED: Portfolio Option to show/hide page link, popup link and unlink color overlay when hovered
+IMPROVED: Blog Option to show/hide page link, popup link and unlink color overlay when hovered
+IMPROVED: Theme Options descriptions and titles for options
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.17 (10-10-19)
+////////////////////////////////////////////////////////////
+
+ADDED: WooCommerce main shop layout selector (no sidebar, left sidebar, right sidebar(default))
+ADDED: aria-label to mobile toggle menu
+FIX: WooCommerce lightbox z-index (buttons were hidden below the menu bar)
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.16 (10-3-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: Slider Revolution 6.1.3
+UPDATED: WBC907 Core Plugin 1.8.4 To fix bug of demo import images not showing on 
+some servers on the demo import page.
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.15 (9-4-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: Slider Revolution 6.1.1
+BUGFIX: Welcome page columns(admin area) 
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.14 (8-27-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: Slider Revolution 6.1.0 
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.13 (8-13-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery Builder 6.0.5
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.12 (8-8-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: Slider Revolution 6.0.9 
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.11 (7-8-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: PO File to include "on" in the comments area for translation
+FIX: Portfolio margin removed when selecting full width template for blog in theme options
+
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.10 (7-7-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery Builder 6.0.3 (issue with checkbox options fixed.)
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.9 (5-25-19)
+////////////////////////////////////////////////////////////
+
+FIX: Display menu after X amount of rows.
+FIX: Widget Error Message, must update WBC907 Core plugin 1.8.2
+UPDATED: WBC907 Core 1.8.3
+
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.8 (5-22-19)
+////////////////////////////////////////////////////////////
+
+IMPROVED: Coding Standards
+UPDATED: Sidebar Widgets not shown when none selected
+UPDATED: Widgets to plugin WBC907 Core
+UPDATED: WPBakery Builder 6.0.2
+UPDATED: WBC907 Core 1.8.2
+
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.7 (5-2-19)
+////////////////////////////////////////////////////////////
+
+FIX: WooCommerce +/- Quantity Buttons
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.6 (2-22-19)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery Page Builder 5.7
+UPDATED: Slider Revolution 5.4.8.2
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.5 (10-15-18)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery Page Builder 5.5.5
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.4 (7-28-18)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery Page Builder 5.5.2
+UPDATED: Revolution Slider 5.4.8
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.3 (3-13-18)
+////////////////////////////////////////////////////////////
+
+UPDATED: WPBakery Page Builder 5.4.7
+BUGFIX: Extra spacing added to page content when setting menu height.
+BUGFIX: HTML5 portfolio video background icons(when hovered).
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.2 (3-1-18)
+////////////////////////////////////////////////////////////
+
+ADDED: Youtube Video Background overprint control allowing better sizing
+ADDED: Theme Version to styles/JS files
+IMPROVED: Prevent FOUC on New Mobile Menu while page loading
+IMPROVED: Youtube Video Background Centering
+IMPROVED: Theme Options color opacity can now be set at 0
+BUGFIX: Plugins not installing when FTP login details required
+
+
+////////////////////////////////////////////////////////////
+Version 4.1.1 (2-26-18)
+////////////////////////////////////////////////////////////
+
+ADDED: Default Menu Shadow enable/disable option
+ADDED: Sticky Menu Logo Option
+ADDED: Sticky Menu Coloring Options
+ADDED: Sticky Menu Shadow enable/disable option
+ADDED: Mobile Menu Color Options
+ADDED: Mobile Menu Typography Option
+ADDED: Mobile Menu Always Visible Option (Mobile Menu icon always shown when enabled)
+ADDED: Mobile Menu Show at Width Option (activate mobile menu based on set screen width)
+ADDED: Portfolio Gallery Hide Title Option
+ADDED: Portfolio Gallery Hide PopUp Link Option
+ADDED: Portfolio Gallery Hide Link To Post Option
+ADDED: Portfolio Gallery Unlink Overlay option
+ADDED: Blog Grid Hide PopUp Link Option
+ADDED: Blog Grid Hide Link To Post Option
+ADDED: Blog Grid Unlink Overlay option
+IMPROVED: Mobile Menu now hides sub menus by default, expands when parent menu items down arrow is clicked
+IMPROVED: RE-ordered (Theme Options > Header) menu options into their own sub menu tabs for easier access/order
+UPDATED: Language Files (po/mo)
+
+
+////////////////////////////////////////////////////////////
+Version 4.1 (2-18-18)
+////////////////////////////////////////////////////////////
+
+ADDED: Taxi Demo
+ADDED: Lawyer Demo
+ADDED: Cupcake Demos
+ADDED: Tattoo Demo
+ADDED: Watch Shop WooCommerce Demo
+ADDED: Medical Demo
+ADDED: Cloud Hosting Demo
+ADDED: Yoga Demo
+ADDED: Personal Portfolio Demo
+ADDED: Resume Demo
+ADDED: 11 Page Loader/Animations Styles(can be changed on per page basis)
+ADDED: WooCommerce Add To Cart Animation
+ADDED: WooCommerce Pagination & Ajax Pagination to Woocommerce shortcodes HOT!
+ADDED: Mute Video Option for MouseOver Videos
+ADDED: Video Background Lazy Load Option + PlayInview Option
+ADDED: Mobile Video Background Support For Youtube & HTML5 Videos
+ADDED: Color Opacity Option in Theme Options Panel for most color option elements
+ADDED: Clickable icon box option
+ADDED: Portfolio external link option
+ADDED: Full Width Menu Bar Option
+ADDED: Full Width Page Title Bar Option
+ADDED: Full Width Footer Option
+ADDED: Form Styling and improvments
+ADDED: Page Title Bar Options/Ability to turn off breadcrumb links 
+ADDED: Styling Options for Widgets and Footer Widgets
+ADDED: Select Wrap Arrow Option (Better looking selects)
+ADDED: Visual Composer Accordion Theme Primary Color option
+ADDED: Visual Composer Tabs Theme Primary Color option
+ADDED: Posts Pagination (next/prev) for single pages.
+ADDED: WBC Post Widget only show post with featured image option
+ADDED: post-load jquery trigger when loading posts via ajax
+ADDED: Box Shadow to Color Box element
+ADDED: ByRow Option for Equal Height Columns
+
+UPDATED: WooCommerce Styling
+UPDATED: Various Options added/updated in Theme Options panel
+
+BUGFIX: Fix Demo Importer page Button alignment;
+BUGFIX: WooCommerce Depreciated cart_url error;
+
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.32 (11-26-17)
+////////////////////////////////////////////////////////////
+
+UPDATED: Visual Composer  5.4.5
+UPDATED: Revolution Slider 5.4.6.3.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.31 (10-17-17)
+////////////////////////////////////////////////////////////
+
+UPDATED: Visual Composer  5.4.2
+UPDATED: Revolution Slider 5.4.6.2
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.30 (9-28-17)
+////////////////////////////////////////////////////////////
+
+UPDATED: Visual Composer 5.2.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.29 (8-5-17)
+////////////////////////////////////////////////////////////
+
+Fix: WPML Reuseables translating
+UPDATE: Visual Composer 5.2.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.28 (7-21-17)
+////////////////////////////////////////////////////////////
+
+UPDATE: WooCommerce Add To Cart
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.27 (7-12-17)
+////////////////////////////////////////////////////////////
+
+Updated: Visual Composer v5.2
+Change: PrettyPhoto gallery thumbnail limit default was 30
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.26 (7-11-17)
+////////////////////////////////////////////////////////////
+
+Fix: WooCommerce 3.0+ Gallery Images
+Fix: WooCommerce Error Notices
+Fix: PrettyPhoto Gallery Popup Thumbnails
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.25 (4-24-17)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider v5.4.3
+Updated: WBC907 Core Plugin v1.3
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.24 (4-8-17)
+////////////////////////////////////////////////////////////
+
+Updated: Visual Composer v5.1.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.23 (3-22-17)
+////////////////////////////////////////////////////////////
+
+Updated: Visual Composer v5.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.22 (3-6-17)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider v5.4.1
+Updated: WBC907 Core Plugin v1.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.21 (2-22-17)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider v5.3.1.5
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.20 (2-11-17)
+////////////////////////////////////////////////////////////
+
+Fix: Search admin area
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.19 (1-24-17)
+////////////////////////////////////////////////////////////
+
+Improved: Video(youtube) header load time
+Added: Topbar social link window(_blank) option
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.18 (1-16-17)
+////////////////////////////////////////////////////////////
+
+Fixes/Improvements: WooCommerce cart/checkout
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.17 (1-7-17)
+////////////////////////////////////////////////////////////
+
+FIX: SSL Video player update
+
+ADDED: Testimonial label for page builder 
+ADDED: Client logos label for page builder 
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.16 (12-9-16)
+////////////////////////////////////////////////////////////
+
+Updated: Visual Composer
+Updated: Revolution Slider
+
+FIX: Woo Quantity Buttons
+FIX: Woo Update Cart Button
+FIX: Boxed Layout WordPress 4.7
+
+ADDED: Clickable Team Image
+ADDED: Option To Include Portfolio in Search Results
+ADDED: Option to Exclude Portfolio items
+
+CHANGE: Bottom Position Menu Bar
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.15 (11-7-16)
+////////////////////////////////////////////////////////////
+
+Updated: FontAwesome 4.7
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.14 (10-31-16)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider 5.3.0.2
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.13 (10-3-16)
+////////////////////////////////////////////////////////////
+
+Added: Change testimonial slide/interval speed
+
+Fix: Woocommerce "my account" page
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.12 (9-12-16)
+////////////////////////////////////////////////////////////
+
+Updated: Visual Composer 4.12.1
+
+Added: Compatibility for "Category Order and Taxonomy Terms Order" plugin for custom ordering of portfolio filter buttons
+
+Change: Blog and Portfolio default to ordering by date now.
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.11 (8-25-16)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Video Format portfolio/post
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.10 (7-23-16)
+////////////////////////////////////////////////////////////
+
+BUGFIX: Menu Active Color
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.9 (7-21-16)
+////////////////////////////////////////////////////////////
+
+ADDED: Mute/Unmute option HTML5 Video Background
+ADDED: VC Column Gap Option
+ADDED: VC Disable/Hide Row Option
+
+CHANGE: Added VC Default License page has be re-enabled for those that have their own license for Visual Composer
+
+Improved: VC backend builder speed issue
+
+UPDATED: Revolution Slider version 5.2.6
+UPDATED: Visual Composer 5.12
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.8 (6-1-16)
+////////////////////////////////////////////////////////////
+
+Fix: Menu Bar Color Option
+Fix: Menu Link Color Option
+
+UPDATED: Revolution Slider version 5.2.5.3
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.7 (4-24-16)
+////////////////////////////////////////////////////////////
+
+UPDATED: Visual Composer 4.11.2.1
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.6 (4-14-16)
+////////////////////////////////////////////////////////////
+
+UPDATED: Visual Composer 4.11.2
+
+FIX: Menu highlighting WordPress 4.5
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.5 (4-6-16)
+////////////////////////////////////////////////////////////
+
+NEW DEMO: Photography v2 http://themes.webcreations907.com/ninezeroseven/photography-v2/
+NEW DEMO: Designer http://themes.webcreations907.com/ninezeroseven/designer/
+NEW DEMO: APP http://themes.webcreations907.com/ninezeroseven/app/
+
+UPDATED: Revolution Slider 5.2.4
+
+FIX: Color box shortcode border
+FIX: Icon box shortcode icon margin bottom
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.4 (3-26-16)
+////////////////////////////////////////////////////////////
+
+UPDATED: Visual Composer 4.11.1
+UPDATED: Revolution Slider 5.2.3.5
+
+FIX: Portfolio Grid Mobile/Brick Layout
+FIX: Widget Areas
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.3 (3-15-16)
+////////////////////////////////////////////////////////////
+
+ADDED: Testimonial Height option variable/auto
+
+UPDATED: Visual Composer
+UPDATED: language files
+
+FIX: Icon Box Subheading color
+
+Improved: Image overlay clickable areas
+Improved: Mobile click image overlays
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.2 (3-9-16)
+////////////////////////////////////////////////////////////
+
+ADDED: BG color option heading shortcode
+ADDED: Page title(breadcrumb bar) typography option
+
+UPDATED: Revolution Slider 5.2.1
+UPDATED: language files
+
+FIX: VC toggle
+FIX: Menu BG when using custom set height/transparent menu
+FIX: VC page builder exclude option for pages
+FIX: Compatibility for Download Manager plugin
+
+
+////////////////////////////////////////////////////////////
+Version 4.0.1 (2-27-16)
+////////////////////////////////////////////////////////////
+
+FIX: Logo now uses home_url()
+FIX: Envato Market plugin slug updated
+FIX: 404 page title added
+
+IMPROVEMENT: Prettyphoto mobile
+IMPROVEMENT: Mouseover videos
+
+
+////////////////////////////////////////////////////////////
+Version 4.0 (2-21-16)
+////////////////////////////////////////////////////////////
+
+There is a lot of changes in 4.0, but will list a few 
+below. This is a HUGE update that has many great new features and 
+options. 
+
+
+NEW: Visual Composer Page Builder
+NEW: MouseOver Video Support in Portfolios
+NEW: Unlimited Portfolio (masonry, grid, etc)
+NEW: Portfolio Gallery Layouts
+NEW: Portfolio Carousel
+NEW: Unlimited Blog
+NEW: Blog Layouts (masonry, grid, etc)
+NEW: 7 Demos Added
+NEW: 1 Click Demo Importer
+NEW: Woocommerce Intergration
+NEW: Options Panel
+NEW: Page/Posts Options
+NEW: Various Menu Positions Added
+NEW: Post Format Support
+NEW: Retina Support
+NEW: Font Icons Sets Added (flaticon, line,etc)
+NEW: Menu Bar Options (Elastic, Sticky, etc)
+NEW: Mini top menu bar for things such as phone, social icons, etc.
+NEW: Transparent Logo Option
+NEW: Bread Crumb/Page Title Area
+NEW: Footer Widget Area
+NEW: Shortcodes (count up, progress bar, client logos, testimonials, icon boxes, and more)
+IMPROVED: Page Validation & Performance
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.20 (2-15-16)
+////////////////////////////////////////////////////////////
+
+FIX: Video header cover image mobile
+FIX: HTTPS added to video embeds (Youtube/Vimeo)
+FIX: Self Assigning HTTP/HTTPS googlefont urls
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.19 (1-26-16)
+////////////////////////////////////////////////////////////
+
+UPDATED: Revolution Slider 5.1.6
+
+FIX: Menu issue on mobile
+FIX: Button link visited color
+
+
+IMPROVED: Parallax section height
+IMPROVED: Parallax section background mobile
+IMPROVED: Contact Form 7 button color now matches theme
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.18 (10-15-15)
+////////////////////////////////////////////////////////////
+
+UPDATED: TGMPA plugin activation files
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.17 (10-8-15)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider to latest version 5.0.9
+Updated: Languages files(.po/mo)
+Added: New styling option, found on Theme Options > General Settings (see live demos)
+Added: Font icon option to service shortcode
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.16 (8-20-15)
+////////////////////////////////////////////////////////////
+
+Updated: FontAwesome
+Updated: Widgets to use parent::__contstruct() for WP 4.3
+Updated: Slider Revolution 
+Updated: Cute3DSlider
+Updated: Languages files(.po/mo)
+
+Added: Video quality select for Youtube header
+Added: Post count, category, and layout option to blog shortcode
+
+Improved: Supports multiple blog shortcodes on same page now.
+Improved: Wrapped most functions with !function_exists() to prevent conflict errors
+Improved: Youtube video header, hide related videos at end of play
+
+Other various improvements and fixes.
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.15 (6-23-15)
+////////////////////////////////////////////////////////////
+
+Updated: Vimeo Header
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.14 (6-15-15)
+////////////////////////////////////////////////////////////
+
+Updated:prettyPhoto
+
+== Change Files == 
+style.css
+assets/js/jquery.prettyPhoto.js
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.13 (5-12-15)
+////////////////////////////////////////////////////////////
+
+Updated: TGM Plugin Activation 
+Updated: Revolution Slider 4.6.93
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.12 (4-24-15)
+////////////////////////////////////////////////////////////
+
+Added 970/1200px wide grid option to theme options panel
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.11 (4-23-15)
+////////////////////////////////////////////////////////////
+
+Update for WordPress 4.2
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.10 (4-22-15)
+////////////////////////////////////////////////////////////
+
+Updated: TGM Plugin Activation 
+Updated: Grid size increased to 1200px
+Updated: Removed some drop shadows and changed up the buttons
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.9 (4-4-15)
+////////////////////////////////////////////////////////////
+
+Updated: FontAwesome Library 
+Changed: Logo now uses div and not h1
+Fix: Slider Shortcode showing wrong order
+Fix: Full Screen Slider when enter new lines in description
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.8 (12-18-14)
+////////////////////////////////////////////////////////////
+
+Updated: Revolution Slider 4.6.5
+Fix: Escape search ?s= param in wp_title() to prevent XSS cross-site scripting
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.7 (9-18-14)
+////////////////////////////////////////////////////////////
+
+Fix: WPML menu selector disappeared with latest WPML update
+Fix: WPML string translation for headers when using child theme
+Fix: Flexslider header now doesn't' require both title and description to be filled in
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.6 (9-8-14)
+////////////////////////////////////////////////////////////
+
+Updated Revolution Slider
+Updated TGM, now can update plugin easier
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.5.5 (4-23-14)
+////////////////////////////////////////////////////////////
+
+FIX: Menu behavior in Chrome when scrolling
+FIX: Added Recent Works shortcode back to Generator
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.5.4 (4-18-14)
+////////////////////////////////////////////////////////////
+
+WordPress 3.9 Compatibility
+Update Revolution Slider
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.5.3 (4-09-14)
+////////////////////////////////////////////////////////////
+
+Fix: Description,title,logo bug in video header
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.5.2 (4-04-14)
+////////////////////////////////////////////////////////////
+
+Added: Flexslider speed & autostart option
+Improved: Video Header Loading
+Fixed: multiple portfolio,works,and team display
+Updated: TGM Plugin Class
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.5 (3-29-14)
+////////////////////////////////////////////////////////////
+
+Added Starter Child Theme
+Added HTML5 Video Backgrounds for Parallax Sections
+Added Parallax color overlay
+
+Updated Language Files
+Updated Revolution Slider
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.4 (1-10-14)
+////////////////////////////////////////////////////////////
+
+Added Support for gif's in galleries/post sliders
+Added captions to prettyPhoto, these are set in media library 
+Added more compatible link structures for youtube/vimeo when adding videos
+Updated Revolution Slider v4.1.4
+Updated lang files
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.3 (12-1-13)
+////////////////////////////////////////////////////////////
+
+Update Rev Slider 4.1
+Update Cute Slider
+Bug fix Author page
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.2 (11-21-13)
+////////////////////////////////////////////////////////////
+
+Uber Menu Support
+Volume control for start added to ThemeOptions
+Added window link target to full slider ThemeOptions
+New Demo's Sample data Added
+Added Sample Rev Slider import for new demo
+
+
+////////////////////////////////////////////////////////////
+Version 3.1.1 (11-14-13)
+////////////////////////////////////////////////////////////
+
+Added: Ability to change contact forms error messages. Also changed to wp_mail() function.
+Added: Exclude Page Section from menu ability, while still displaying on front page
+Fixed: Excerpt length of 0 for portfolio and works
+Updated Revolution Slider
+Updated Documentation
+Updated .PO file
+
+
+////////////////////////////////////////////////////////////
+Version 3.1 (11-6-13)
+////////////////////////////////////////////////////////////
+
+Updated Revolution slider 4.0.2
+Updated .PO files
+Fix for video header Safari 7.0
+Fixed UL issue in post editor
+Added UL shortcode(disc,circle,square)
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.9 (10-26-13)
+////////////////////////////////////////////////////////////
+
+Bug fix for post sliders
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.8 (10-20-13)
+////////////////////////////////////////////////////////////
+
+Added Font Awesome Icons
+Added Unlimited Sidebar Feature To Theme Options Panel
+Added Sidebar shortcode
+Added Post, Portfolio, Works page template select option
+Added Post, Portfolio, Works sidebar select option
+Added Font Awesome Icon list short code
+Added Font Awesome Icon short code
+Added Image Settings/Sizing to Theme Options panel
+
+Fixed Android mobile menu icon display
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.7 (10-9-13)
+////////////////////////////////////////////////////////////
+
+Fixed issue with menu items that have target new window
+Added parallax adjust on browser resize
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.6 (10-8-13)
+////////////////////////////////////////////////////////////
+
+Added New Mobile Menu Option
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.5 (9-28-13)
+////////////////////////////////////////////////////////////
+
+Added pricing table image
+Added 0.0 for Parallax speed
+Added Parallax Speed in Theme Options for parallax header
+Added team categories
+
+Removed padding on full width pages
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.4 (9-16-13)
+////////////////////////////////////////////////////////////
+
+Fixed issue with theme options and WPML
+
+
+////////////////////////////////////////////////////////////
+Version 3.0.2 (8-9-13)
+////////////////////////////////////////////////////////////
+
+Updated compatibility WP 3.6
+
+
+////////////////////////////////////////////////////////////
+Version 3.0 (7-29-13)
+////////////////////////////////////////////////////////////
+
+Fixed: 404 bug on blog category page
+
+
+////////////////////////////////////////////////////////////
+Version 3.0 (6-30-13)
+////////////////////////////////////////////////////////////
+
+Added Video Header supports youtube and vimeo
+Added Isotype
+Added Recent Works Categories
+Added Shortcode for works and portfolio to display only category
+Added Linkable icon on services
+Added Page Layouts for post,portfolio,works 
+Added option to disable photo popup link for works/portfolio
+
+Updated entire theme options
+Updated Sample Data and sample theme options
+Updated documentation
+Updated Revolution slider to latest version
+Updated PrettyPhoto to latest version
+
+Fixed various issues/bugs
+
+
+////////////////////////////////////////////////////////////
+Version 2.6.2 (6-13-13)
+////////////////////////////////////////////////////////////
+
+Removed twitter widget
+Fixed Portfolio issue
+Update Translation files
+
+
+////////////////////////////////////////////////////////////
+Version 2.6 (4-6-13)
+////////////////////////////////////////////////////////////
+
+Removed globe icon from blog posts
+
+
+////////////////////////////////////////////////////////////
+Version 2.6 (4-6-13)
+////////////////////////////////////////////////////////////
+
+Added Revolution Slider
+Added Cute 3D Slider
+Added Custom Header Option
+Added Target window for social links
+Added Contact Form Label edits
+Added Custom Page/Parallax Selects for Portfolio/works
+Added External link icon for portfolio/works
+Added WP Editor UL style(circle,disc,square) selector
+
+Fixed Unclosed Tags in Portfolio/Works
+Updated Translation Files
+
+
+////////////////////////////////////////////////////////////
+Version 2.5 (4-1-13)
+////////////////////////////////////////////////////////////
+
+Ipad/Iphone Parallax Fix
+Accented Characters support
+
+
+////////////////////////////////////////////////////////////
+Version 2.4 (3-23-13)
+////////////////////////////////////////////////////////////
+
+Added Sub Menu
+Added Portfolio Options
+Added More Parallax Options
+
+
+////////////////////////////////////////////////////////////
+Version 2.3 (3-18-13)
+////////////////////////////////////////////////////////////
+
+Fixed search error
+
+
+////////////////////////////////////////////////////////////
+Version 2.2 (3-12-13)
+////////////////////////////////////////////////////////////
+
+Added 7 Full Screen Slider Transitions
+Added Color options for all header options
+Added Header Logo Option 
+Added Responsive on/off feature
+Added Excerpt Shortcode link
+
+
+
+////////////////////////////////////////////////////////////
+Version 2.1 (3-10-13)
+////////////////////////////////////////////////////////////
+
+Added per row display(3 or 4) to works/portfolio
+Added hide link page works/portfolio
+Added all image inserted responsive.
+
+Fixed special/accented characters on filter
+Fixed mobile prettyphoto size display
+
+
+////////////////////////////////////////////////////////////
+Version 2.0 (3-6-13)
+////////////////////////////////////////////////////////////
+
+Added 8 More Social Links
+Added Works/Portfolio Linked Pages
+Added Page Section Sorting/Excluding
+Added New Image Hover Effect
+Added More Theme Options
+Added Multiple Filter Portfolio support
+Added Fullslider header unlimited slide/sorter
+
+Fixed Ipad Issue on Parallax header
+Fixed Shortcode in Footer text theme options
+
+
+////////////////////////////////////////////////////////////
+Version  1.3 (2-23-13)
+////////////////////////////////////////////////////////////
+
+Fix favicon
+Fix Analytics Code
+
+Added Page Sections to wordpress admin menu page,
+made when you click "view" on page sections takes, 
+you to home page were that section is.
+
+
+////////////////////////////////////////////////////////////
+Version  1.1 (2-21-13)
+////////////////////////////////////////////////////////////
+
+Added video, slideshow support to 
+recent works
+
+
+////////////////////////////////////////////////////////////
+Version  1.0 (2-19-13)
+////////////////////////////////////////////////////////////
+
+++ RELEASED ++

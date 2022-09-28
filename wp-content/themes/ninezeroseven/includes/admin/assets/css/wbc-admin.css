@@ -1,0 +1,390 @@
+.wbc-elementor-icon:before{
+	content: "\e813";
+	font-family: eicons;
+	font-size: 18px;
+	margin-top: 1px;
+}
+.wbc907-change-log{
+	max-height: 600px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background-color: #393636;
+	padding: 10px 30px 20px 30px;
+	color:#b3b3b3;
+	border-radius: 5px;
+}
+.wbc907-change-log code{
+	background-color: transparent;
+	color:#e8e8e8;
+}
+
+.wbc907-change-log pre{
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+}
+
+.wbc907-change-log .wbc907-change-date{
+	color:#fff;
+	font-size: 18px;
+}
+
+.wbc907-changes{
+	margin:0 20px 40px 20px;
+}
+
+.wbc907-changes h2{
+	text-align: left;
+	font-size: 20px;
+}
+
+.wbc907-changes ul{
+	padding-left: 15px;
+}
+#vc_license-activation-notice{
+	display: none !important;
+}
+.wbc-dismiss-notice-link{
+	padding-top:5px;
+	display: inline-block;
+}
+.wbc-admin-plugin-messages .wbc-tgmpa-wrap{
+	max-width: 1010px;
+	padding: 20px;
+	background-color: #fff;
+	margin: 20px;
+	border-radius: 4px;
+	box-shadow: 0 0 3px rgba(0,0,0,0.22);
+}
+
+.wbc-tgmpa-wrap p span.code{
+	display: none;
+}
+
+.wbc-admin-plugin-messages .subsubsub,
+.wbc-admin-plugin-messages #tgmpa-plugins{
+	display: none !important;
+}
+.wbc-admin-view .theme-browser .theme .more-details{
+	background-color:transparent !important;
+}
+
+.wbc-admin-view .theme-browser .theme .theme-actions{
+	opacity: 1
+}
+
+.wbc-admin-view .theme-browser .button{
+	margin-top:0 !important;
+}
+
+.wbc-admin-view .plugin-required,
+.wbc-admin-view .plugin-locked{
+	position: absolute;
+	top:0;
+	left:0;
+	background: #c22c08;
+	z-index: 1;
+	padding:20px;
+	color:#fff;
+}
+
+.wbc-admin-view .plugin-locked{
+	left:50%;
+	top:50%;
+	background: none;
+	
+	-webkit-transform:translate(-50%,-50%);
+	-moz-transform:translate(-50%,-50%);
+	-o-transform:translate(-50%,-50%);
+	transform:translate(-50%,-50%);
+}
+
+.wbc-admin-view .plugin-locked.dashicons-before:before{
+	font-size: 60px;
+    width: 90px;
+    height: 90px;
+    padding: 0;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.7);
+    vertical-align: middle;
+    line-height: 90px;
+    border-radius: 100px;
+}
+
+.wbc-admin-view .update .plugin-required{
+	top:50px;
+}
+.wbc-admin-view .update .update-message{
+	display: block !important;
+}
+
+.wbc-admin-view .theme-browser .theme .spinner {
+    background-position: right center;
+    font-size: 12px;
+    height: 20px;
+    margin-right: 0;
+    padding-right: 25px;
+    padding-top: 5px;
+    width: auto;
+    visibility: visible;
+    display: none;
+}
+
+.wbc-admin-view .theme-browser .theme.wbc-process .spinner{
+	display: block;
+}
+
+.wbc-admin-view .wbc-registered-message {
+    background-color: #fff;
+    padding: 15px 20px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.22);
+    margin-bottom: 20px;
+}
+.wbc-admin-view .wbc-registered-message p{
+	margin-left: 0;
+}
+
+.wbc-admin-view .feature-section p{
+	max-width: 100%;
+	width: 100%;
+}
+
+/*Regiester*/
+.wbc-register-notice{
+	padding:15px 20px 25px;
+}
+.wbc-register-notice h2{
+	margin-top:5px;
+	margin-bottom: 0;
+}
+.wbc-register-area{
+	background-color: #fff;
+	padding:25px;
+}
+
+.wbc-register-input-wrap{
+	position: relative;
+}
+
+.wbc-register-input-wrap input[type="text"]{
+	padding:15px 15px 15px 60px;
+}
+
+.wbc-register-input-wrap input.button{
+	margin-top: 0 !important;
+	height: 54px !important;
+	line-height: 54px !important;
+	padding:0 30px 2px !important;
+	position: absolute;
+	right:3px;
+	top:3px;
+}
+
+.wbc-register-input-wrap span.dashicons-before{
+	position: absolute;
+	height: 100%;
+	width: 50px;
+	text-align: center;
+	line-height: 58px;
+	border-right: 1px solid rgba(0,0,0,.12);
+}
+
+.wbc-register-input-wrap .dashicons-before::before{
+	vertical-align: middle;
+	width: 25px;
+	height:25px;
+	font-size: 25px;
+}
+
+.wbc-admin-view .wbc-register-area hr{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.wbc-admin-view .wbc-register-area li{
+	padding:15px 10px;
+	font-size: 16px;
+}
+
+.wbc-admin-view .lead-text{
+	font-size: 16px;
+}
+
+.wbc-register-message{
+	position: absolute;
+	top: -35px;
+	right: 0;
+	background-color: red;
+	color: #fff;
+	font-size: 13px;
+	padding: 5px 10px;
+	min-width: 150px;
+	display: none;
+} 
+
+.has-message-error .wbc-register-error{
+	display: block;
+}
+
+.has-message-success .wbc-register-success{
+	background-color: #087c02;
+	display: block;
+}
+
+#wbc-register-form .spinner{
+    float: none;
+    width: 112px;
+    text-align: left;
+    position: absolute;
+    top: -30px;
+    right: 3px;
+    z-index: 100;
+    text-align: right;
+    line-height: 20px;
+	font-size: 14px;
+}
+
+#wbc-register-form.wbc-submited .spinner{
+	visibility: visible;
+}
+
+.wbc-submited .wbc-register-input-wrap .button{
+	opacity: 0.7;
+}
+
+
+.wbc-admin-view .wbc-license-active{
+	text-align: center;
+	padding-top: 30px;
+}
+
+.wbc-admin-view .wbc-license-active .button,
+.wbc-admin-view .wbc-checkit-out{
+	margin-bottom:20px;
+	padding: 15px 20px;
+	height: auto;
+	font-size: 15px;
+	line-height: 1em;
+}
+.wbc-admin-view .text-center{
+	text-align: center;
+}
+.wbc-admin-view .wbc-checkit-out{
+	margin-top:30px;
+}
+.wbc-admin-view .wbc-license-active h2{
+	margin-top:20px;
+	margin-bottom:30px;
+}
+
+.wbc-admin-view .wbc-license-active .dashicons-smiley:before{
+	color:#087c02;
+	font-size: 50px;
+	width:50px;
+	height: 50px;
+	border: 2px solid #087c02;
+	padding:20px;
+	border-radius: 100px;
+
+}
+
+.wbc-deactivate-license-button{
+	position: relative;
+}
+
+.wbc-deactivate-license-button .spinner{
+	position: absolute;
+	top: -30px;
+	text-shadow: none;
+	color: #444;
+	width: 140px;
+	line-height: 20px;
+	font-size: 14px;
+	left: 50%;
+	margin-left: -55px;
+}
+
+.wbc-deactivate-license-button.wbc-clicked .spinner{
+	visibility: visible;
+}
+
+@media (min-width:1640px) {
+
+	.wbc-admin-view .theme-browser .theme{
+		margin: 0 4% 4% 0;
+		width: 30.6%;
+
+	}
+	.wbc-admin-view .theme-browser .theme:nth-child(3n){
+		margin-right: 0;
+	}
+
+	.wbc-admin-view .theme-browser .theme .theme-screenshot::after{
+		padding-top: 66.66666%;
+	}
+}
+
+.wbc-welcome .feature-section p{
+max-width: 55em;
+margin-left: auto;
+margin-right: auto;
+}
+.wbc-welcome .feature-section h2{
+margin: 40px 0 .6em;
+font-size: 2.7em;
+line-height: 1.3;
+font-weight: 300;
+text-align: center;
+}
+
+.wbc-welcome .feature-section .wbc-main-view{
+	margin-top:0;
+}
+
+.wbc-welcome .wbc-changelog{
+	text-align: right;
+	margin-top:-15px;
+}
+
+.version-info{
+	font-size: 12px;
+	position: absolute;
+	bottom: 20px;
+	right:0;
+	padding: 5px 8px 5px 8px;
+	min-width: 100px;
+	text-align: right;
+	z-index: 100;
+	color:#fff;
+	background-color: rgba(0,0,0,0.5);
+}
+.wbc-admin-view-logo{
+	background-color: #444;
+	background-image: url('../img/907-admin-logo.png') !important;
+	background-size: 85px 85px;
+	background-position-y:15px;
+	padding-top: 110px;
+}
+.wbc-admin-view-logo > div{
+	background-color: #fa8322;
+	height: 40px;
+	vertical-align: middle;
+	line-height: 40px;
+}
+
+.wbc-admin-lead-box{
+	padding: 15px;
+	line-height: 1.5em;
+	background-color: rgba(0, 172, 187, 0.06);
+	border: 1px solid rgba(0, 172, 187, 0.2);
+}
+
+.wbc-support-section .wbc-button-wrap .button{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.wbc-support-section .wbc-register-area{
+	padding-bottom: 40px;
+}
